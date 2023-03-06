@@ -66,6 +66,7 @@ const category = new mongoose.Schema(
     },
   },
   {
+    _id: false,
     versionKey: false,
   }
 );
