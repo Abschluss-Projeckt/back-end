@@ -8,11 +8,11 @@ export const postSchema = {
     image: { type: "string" },
     time: { type: "number" },
     portion: { type: "number" },
-    // user: {
-    //   type: "string",
-    //   minLength: 24,
-    //   maxLength: 24,
-    // },
+    user: {
+      type: "string",
+      minLength: 24,
+      maxLength: 24,
+    },
   },
   required: [
     "name",

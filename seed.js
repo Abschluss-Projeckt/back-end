@@ -2,10 +2,11 @@ console.log("run seed script");
 
 import { faker } from "@faker-js/faker";
 import Recipe from "./models/Recipe.js";
-// import User from "./models/User.js";
+import User from "./models/User.js";
 import "./lib/mongoose.js";
 
-// const albums = [];
+const users = [];
+const recipes = [];
 
 const mealType = [
   "Vorspeise",
@@ -80,6 +81,7 @@ const ingredientGen = () => {
 };
 
 const addRecipe = async () => {
+  const index = Math.floor(Math.random() * 5);
   const newRecipe = await Recipe.create({
     name: faker.lorem.words(3),
     image: faker.image.food(640, 480, true),
@@ -88,19 +90,11 @@ const addRecipe = async () => {
     category: category(),
     time: faker.datatype.number({ min: 10, max: 100 }),
     portion: faker.datatype.number({ min: 2, max: 6 }),
+    user: users[index],
   });
+
+  recipes.push(newRecipe._id);
 };
-
-// const createAlbum = async () => {
-//   const newAlbum = new Album({
-//     name: faker.word.noun(),
-//     date: faker.date.past(),
-//     creator: faker.name.fullName(),
-//   });
-
-//   const result = await newAlbum.save();
-//   albums.push(result._id);
-// };
 
 const addRecipes = async (count = 20) => {
   for (let i = 0; i < count; i++) {
@@ -109,24 +103,66 @@ const addRecipes = async (count = 20) => {
   }
 };
 
-// const createAlbums = async (count = 20) => {
-//   for (let i = 0; i < count / 4; i++) {
-//     console.log("creating album: ", i + 1);
-//     await createAlbum();
-//   }
-// };
+const shoppingListGen = () => {
+  const list = [];
+  for (let i = 0; i < faker.datatype.number({ min: 5, max: 10 }); i++) {
+    list.push(faker.lorem.word());
+  }
+
+  return list;
+};
+
+const shoppingList = () => ({
+  date: faker.date.recent(10),
+  title: faker.name.firstName() + "s Einkaufsliste",
+  list: shoppingListGen(),
+});
+
+const recipesList = () => {
+  const myRecipes = [];
+  const index = Math.floor(Math.random() * recipes.length);
+  for (let i = 0; i < faker.datatype.number({ min: 2, max: 5 }); i++) {
+    myRecipes.push(recipes[index]);
+  }
+
+  return myRecipes;
+};
+
+const createUser = async () => {
+  const newUser = await User.create({
+    userName: faker.internet.userName(),
+    email: faker.internet.email(),
+    password: faker.internet.password(20),
+    image:
+      "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+    recipes: recipesList(),
+    likedRecipes: recipesList(),
+    shoppingList: [shoppingList()],
+  });
+
+  users.push(newUser._id);
+};
+
+const createUsers = async (count = 20) => {
+  for (let i = 0; i < count / 4; i++) {
+    console.log("creating user: ", i + 1);
+    await createUser();
+  }
+};
 
 try {
   if (!process.argv.includes("doNotDelete")) {
-    console.log("deleting all recipes...");
+    console.log("deleting all recipes and users...");
+    await User.deleteMany();
     await Recipe.deleteMany();
     console.log("done");
   }
 
-  console.log("adding new recipes...");
+  console.log("adding new recipes and users...");
   await addRecipes(
     process.argv[2] === "doNotDelete" ? undefined : process.argv[2]
   );
+  await createUsers();
   console.log("done");
 
   console.log("seeding finished, happy coding!");
