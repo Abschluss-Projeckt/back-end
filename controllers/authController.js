@@ -80,9 +80,16 @@ export const logout = async (req, res, next) => {
   res.clearCookie("logged_in");
   res.clearCookie("jwt");
 
-  try {
-    res.status(200).send();
-  } catch (error) {
-    return next(error);
-  }
+  req.logOut(function (err) {
+    if (err) {
+      return next(err);
+    }
+    res.redirect("/login").status(200).send();
+  });
+
+  // try {
+  //   res.status(200).send();
+  // } catch (error) {
+  //   return next(error);
+  // }
 };

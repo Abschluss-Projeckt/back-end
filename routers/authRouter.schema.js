@@ -8,14 +8,10 @@ export const postSchema = {
     recipes: {
       type: "array",
       items: { type: "object" },
-      minLength: 24,
-      maxLength: 24,
     },
     likedRecipes: {
       type: "array",
       items: { type: "object" },
-      minLength: 24,
-      maxLength: 24,
     },
     shoppingList: { type: "object" },
   },

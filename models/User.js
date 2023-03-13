@@ -21,6 +21,8 @@ const shoppingList = new Schema(
 
 const userSchema = new Schema(
   {
+    googleId: String,
+    provider: String,
     userName: {
       type: String,
       required: true,
