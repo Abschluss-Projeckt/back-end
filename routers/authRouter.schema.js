@@ -15,13 +15,6 @@ export const postSchema = {
     },
     shoppingList: { type: "object" },
   },
-  required: [
-    "userName",
-    "email",
-    "image",
-    "recipes",
-    "likedRecipes",
-    "shoppingList",
-  ],
+  required: ["userName", "email", "password"],
   additionalProperties: false,
 };

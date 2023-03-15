@@ -44,12 +44,12 @@ app.use(
 app.use(passport.initialize());
 app.use(passport.session());
 
-// app.use(
-//   cors({
-//     origin: "http://localhost:3000",
-//     credentials: true,
-//   })
-// );
+app.use(
+  cors({
+    origin: "http://localhost:5173",
+    credentials: true,
+  })
+);
 
 app.use(express.json());
 
@@ -57,11 +57,11 @@ app.use(cookieParser());
 
 app.use(logMiddleware);
 
-app.get("/", (req, res) => res.sendFile(__dirname + "/views/index.html"));
-app.get("/login", (req, res) => res.sendFile(__dirname + "/views/login.html"));
-app.get("/register", (req, res) =>
-  res.sendFile(__dirname + "/views/register.html")
-);
+// app.get("/", (req, res) => res.sendFile(__dirname + "/views/index.html"));
+// app.get("/login", (req, res) => res.sendFile(__dirname + "/views/login.html"));
+// app.get("/register", (req, res) =>
+//   res.sendFile(__dirname + "/views/register.html")
+// );
 
 app.use("/api/recipes", recipeRouter);
 app.use("/api/users", userRouter);

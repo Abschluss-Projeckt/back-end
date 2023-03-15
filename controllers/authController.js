@@ -2,10 +2,20 @@ import bcrypt from "bcrypt";
 
 import { signToken } from "../lib/token.js";
 import * as User from "../models/User.js";
+import Cookie from "../lib/cookie.js";
 
 export const register = async (req, res, next) => {
-  const hashedPassword = await bcrypt.hash(req.body.password, 12);
   try {
+    const user = await User.getOne({ email: req.body.email });
+
+    if (user) {
+      const err = new Error("Benutzer existiert schon!");
+      err.statusCode = 400;
+      throw err;
+    }
+
+    const hashedPassword = await bcrypt.hash(req.body.password, 12);
+
     const newUser = await User.create({
       ...req.body,
       password: hashedPassword,
@@ -15,6 +25,8 @@ export const register = async (req, res, next) => {
       likedRecipes: [],
       shoppingList: [],
     });
+
+    Cookie(newUser, res);
 
     res.status(201).json({
       userName: newUser.userName,
@@ -44,22 +56,7 @@ export const login = async (req, res, next) => {
 
     // response senden
     if (isPasswordEqual) {
-      // token erstellen
-      const token = signToken({ id: user._id });
-
-      // token in einem cookie hinzufügen
-      const expiresIn = 1000 * 60 * 60 * 24;
-
-      res.cookie("jwt", token, {
-        sameSite: "lax",
-        maxAge: expiresIn,
-        httpOnly: true,
-      });
-      res.cookie("logged_in", user._id.toString(), {
-        sameSite: "lax",
-        maxAge: expiresIn,
-        httpOnly: false,
-      });
+      Cookie(user, res);
 
       res.status(200).json({
         msg: "Successfully logged in",

@@ -51,6 +51,7 @@ const userSchema = new Schema(
         ref: "Recipe",
       },
     ],
+
     shoppingList: [shoppingList],
     // weeklyPlan: []
   },
