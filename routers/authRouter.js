@@ -18,10 +18,12 @@ router
   )
   .get(
     "/google/callback",
-    passport.authenticate("google", { failureRedirect: "/login" }),
+    passport.authenticate("google", {
+      failureRedirect: process.env.CLIENT_URL + "/register",
+    }),
     async (req, res) => {
-      // Successful authentication, redirect home.
-      await res.redirect("/");
+      res.cookie("loggedIn", req.session.passport.user);
+      await res.redirect(process.env.CLIENT_URL);
     }
   );
 

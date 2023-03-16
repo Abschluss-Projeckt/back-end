@@ -3,7 +3,6 @@ import cors from "cors";
 import cookieParser from "cookie-parser";
 import session from "express-session";
 import passport from "passport";
-import mongoose from "mongoose";
 import MongoStore from "connect-mongo";
 
 import recipeRouter from "./routers/recipeRouter.js";
@@ -38,7 +37,7 @@ app.use(
     store: MongoStore.create({
       mongoUrl: `${process.env.MONGODB_URI}/${process.env.DATABASE}`,
     }),
-    // cookie: { secure: true },
+    cookie: { maxAge: 1000 * 60 * 60 * 24 },
   })
 );
 app.use(passport.initialize());
