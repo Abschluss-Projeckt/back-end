@@ -22,7 +22,7 @@ router
       failureRedirect: process.env.CLIENT_URL + "/register",
     }),
     async (req, res) => {
-      res.cookie("loggedIn", req.session.passport.user);
+      res.cookie("logged_in", req.session.passport.user);
       await res.redirect(process.env.CLIENT_URL);
     }
   );
