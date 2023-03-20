@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Green salad with strawberry-mustard dressing",
+    "description": [
+      "Preheat the oven to 160°C/320°F and roast the pistachios for 5 – 8 min.",
+      "Wash mini cucumbers and strawberries. Cut both into thin slices. Chop pistachios.",
+      "For the dressing, zest and juice the lemon. Using an immersion blender, blend the remaining strawberries with mustard, lemon zest and juice, olive oil, honey, salt, and pepper. Add poppy seeds and mix well with a spoon.",
+      "Add baby spinach, arugula, pistachios, cucumbers, and strawberries to a bowl. Mix well, top with the dressing, and garnish with fresh mint. Enjoy!"
+    ],
+    "ingredients": [
+      {
+        "name": "baby spinach",
+        "amount": 100,
+        "measure": "g"
+      },
+      {
+        "name": "arugula",
+        "amount": 50,
+        "measure": "g"
+      },
+      {
+        "name": "strawberries",
+        "amount": 200,
+        "measure": "g"
+      },
+      {
+        "name": "mustard",
+        "amount": 0.5,
+        "measure": "tsp"
+      },
+      {
+        "name": "pistachios",
+        "amount": 30,
+        "measure": "g"
+      },
+      {
+        "name": "mini cucumbers",
+        "amount": 4
+      },
+      {
+        "name": "lemon",
+        "amount": 0.5
+      },
+      {
+        "name": "olive oil",
+        "amount": 50,
+        "measure": "ml"
+      },
+      {
+        "name": "honey",
+        "amount": 2,
+        "measure": "tsp"
+      },
+      {
+        "name": "poppy seed",
+        "amount": 1,
+        "measure": "tbsp"
+      },
+      {
+        "name": "mint (for garnish)",
+        "amount": 4,
+        "measure": "springs"
+      },
+      {
+        "name": "salt"
+      },
+      {
+        "name": "pepper"
+      }
+    ],
+    "category": {
+      "mealType": "Salad",
+      "meal": "Salad",
+      "region": "European",
+      "nutrition": "vegan"
+    },
+    "image": "/imgs/recept/R1621-photo-final-1.webp",
+
+    "preparationTime": 25,
+
+    "portion": 2,
+
+    "comment": [],
+
+    "recipeRanking": {
+      "five": 0,
+      "four": 0,
+      "three": 0,
+      "two": 0,
+      "one": 0
+    }
+  }
+]

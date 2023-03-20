@@ -13,10 +13,7 @@ const schema = new mongoose.Schema(
       required: true,
     },
 
-    ingredients: {
-      type: Array,
-      required: true,
-    },
+    ingredients: [Schemas.ingredients],
 
     category: Schemas.category,
 
@@ -25,7 +22,7 @@ const schema = new mongoose.Schema(
       required: true,
     },
 
-    time: {
+    preparationTime: {
       type: Number,
       required: true,
     },

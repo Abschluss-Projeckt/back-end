@@ -6,53 +6,51 @@ export const category = new mongoose.Schema(
     mealType: {
       type: String,
       enum: [
-        "Vorspeise",
-        "Hauptspeise",
-        "Frühstück",
+        "Appetizer",
+        "Main Course",
+        "Breakfast",
+        "Salad",
         "Dessert",
-        "Snack",
-        "Getränke",
+        "Snacks",
+        "Drinks",
       ],
-      required: true,
     },
 
     meal: {
       type: String,
       enum: [
-        "Fleischgerichte",
-        "Fischgerichte",
+        "Meat Dishes",
+        "Fish Dishes",
         "Pizza & Pasta",
-        "Backen",
-        "Suppe & Eintopf",
-        "Salat",
-        "Beilagen",
+        "Baking",
+        "Soups & Stews",
+        "Salad",
+        "Sides",
         "Dessert",
-        "Auflauf",
+        "Casserole",
         "Snacks",
       ],
-      required: true,
     },
 
     region: {
       type: String,
       enum: [
-        "Asiatisch",
-        "Chinesisch",
-        "Deutsch",
-        "Englisch",
-        "Französisch",
-        "Arabisch",
-        "Griechisch",
-        "Indisch",
-        "Italienisch",
-        "Japanisch",
-        "Mexikanisch",
-        "Osteuropäisch",
-        "Spanisch",
-        "Türkisch",
-        "Orientalisch",
+        "Asian",
+        "Chinese",
+        "German",
+        "British",
+        "French",
+        "Arabic",
+        "Greek",
+        "Indian",
+        "Italian",
+        "Japanese",
+        "Mexican",
+        "European",
+        "Spanian",
+        "Türkish",
+        "Orientalish",
       ],
-      required: true,
     },
     nutrition: {
       type: String,
@@ -71,6 +69,15 @@ export const category = new mongoose.Schema(
     versionKey: false,
   }
 );
+
+export const ingredients = new mongoose.Schema({
+  name: {
+    type: String,
+    required: true,
+  },
+  amount: Number,
+  measure: String,
+});
 
 export const comments = new mongoose.Schema(
   {
