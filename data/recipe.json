@@ -72,13 +72,553 @@
       "mealType": "Salad",
       "meal": "Salad",
       "region": "European",
-      "nutrition": "vegan"
+      "nutrition": "Vegan, Vegetarian"
     },
     "image": "/imgs/recept/R1621-photo-final-1.webp",
 
     "preparationTime": 25,
 
     "portion": 2,
+
+    "comment": [],
+
+    "recipeRanking": {
+      "five": 0,
+      "four": 0,
+      "three": 0,
+      "two": 0,
+      "one": 0
+    }
+  },
+  {
+    "name": "Cheese Burger",
+    "description": [
+      "Preheat the grill. Slice onion into thin rings. Gently sauté half of the onions in some olive oil. Season with salt and pepper.",
+      "Season ground beef with some pepper to taste and form into burger patties with damp hands. Create a small well in the middle to prevent the burger from puffing up during cooking.",
+      "Place patties on the hot grill and cook for approx. 4 – 5 min. per side, depending on the thickness. Place a slice of cheddar cheese on each patty and let it melt for a minute.",
+      "Cut tomato and cucumber into slices. Cut the burger buns lengthwise and butter if desired.",
+      "Assemble burger with grilled patties, tomato and cucumber slices, raw onion slices, sautéed onions, iceberg lettuce, ketchup, and mayonnaise. Enjoy!"
+    ],
+    "ingredients": [
+      {
+        "name": "burger buns",
+        "amount": 4
+      },
+      {
+        "name": "ground beef",
+        "amount": 800,
+        "measure": "g"
+      },
+      {
+        "name": "tomato",
+        "amount": 1
+      },
+      {
+        "name": "cucumber",
+        "amount": 0.5
+      },
+      {
+        "name": "onions (red)",
+        "amount": 2
+      },
+      {
+        "name": "cheddar cheese",
+        "amount": 4,
+        "measure": "slices"
+      },
+      {
+        "name": "mayonnaise",
+        "amount": 4,
+        "measure": "tsp"
+      },
+      {
+        "name": "ketchup",
+        "amount": 4,
+        "measure": "tsp"
+      },
+      {
+        "name": "iceberg lettuce",
+        "amount": 4,
+        "measure": "leaves"
+      },
+      {
+        "name": "salt"
+      },
+      {
+        "name": "pepper"
+      },
+      {
+        "name": "olive oil for frying"
+      },
+      {
+        "name": "butter for serving"
+      }
+    ],
+    "category": {
+      "mealType": "Main Course",
+      "meal": "Meat Dishes",
+      "region": "American"
+    },
+    "image": "/imgs/recept/TheBurger_Final.webp",
+
+    "preparationTime": 30,
+
+    "portion": 4,
+
+    "comment": [],
+
+    "recipeRanking": {
+      "five": 0,
+      "four": 0,
+      "three": 0,
+      "two": 0,
+      "one": 0
+    }
+  },
+  {
+    "name": "Baba Ganoush",
+    "description": [
+      "Preheat the oven to 200 degrees top/bottom heat (180 degrees fan oven).",
+      "Wash the aubergines, cut off the ends and cut in half. Score the flesh lightly with the tip of a knife. Place the aubergines cut-side up on a baking sheet lined with parchment paper and roast on the middle rack for 50-60 minutes. The aubergine halves should have collapsed by the end of the cooking time. Take out and let cool.",
+      "Meanwhile, peel the garlic clove(s) and press through a garlic press. Wash the coriander, shake dry and chop finely. Halve the lemon and squeeze out about 2 tablespoons of juice.",
+      "Scoop out the flesh of the aubergines with a spoon and place in a tall mixing bowl. Add the garlic, lemon juice and tahini. Finely puree using a hand blender. Season to taste with salt, pepper and cumin.",
+      "Pour the baba ganoush into a bowl, pour olive oil in the middle and serve garnished with chopped coriander and sesame seeds. Enjoy with flatbread if you like."
+    ],
+    "ingredients": [
+      {
+        "name": "globe eggplants",
+        "amount": 4
+      },
+      {
+        "name": "tahini",
+        "amount": 120,
+        "measure": "g"
+      },
+      {
+        "name": "clove(s) garlic",
+        "amount": 4
+      },
+      {
+        "name": "pomegranate molasses",
+        "amount": 25,
+        "measure": "ml"
+      },
+      {
+        "name": "olive oil",
+        "amount": 25,
+        "measure": "ml"
+      },
+      {
+        "name": "parsley",
+        "amount": 12,
+        "measure": "g"
+      },
+      {
+        "name": "salt",
+        "amount": 10,
+        "measure": "g"
+      },
+      {
+        "name": "ground pepper",
+        "amount": 1,
+        "measure": "g"
+      },
+      {
+        "name": "pomegranate seeds",
+        "amount": 40,
+        "measure": "g"
+      }
+    ],
+    "category": {
+      "mealType": "Appetizer",
+      "meal": "Sides",
+      "region": "Oriental",
+      "nutrition": "Vegan, Gluten Free"
+    },
+    "image": "/imgs/recept/pexels-shameel-mukkath-14774982.jpg",
+
+    "preparationTime": 75,
+
+    "portion": 4,
+
+    "comment": [],
+
+    "recipeRanking": {
+      "five": 0,
+      "four": 0,
+      "three": 0,
+      "two": 0,
+      "one": 0
+    }
+  },
+  {
+    "name": "Turkish Baklava",
+    "description": [
+      "First, preheat the oven to 150 degrees (top and bottom heat).",
+      "Put the pistachios in a bowl with the walnuts, cinnamon, breadcrumbs, sugar and clove(s) and mix well.",
+      "Melt the clarified butter in a small saucepan over low heat and brush a baking tray with some clarified butter.",
+      "Now place a thin layer of puff pastry on top, brush with clarified butter, place another layer of puff pastry on top and brush with clarified butter again.",
+      "Halfway through the prepared puff pastry, spread the pistachio mixture over the pastry. Then finish layering with the remaining puff pastry, brushing each layer with clarified butter.",
+      "Now cut the baklava on the baking tray into the typical small pieces and bake in the preheated oven for 35 to 40 minutes until golden brown.",
+      "In the meantime, for the sugar syrup, mix the water with the sugar and heat in a saucepan over a low heat. Stir the syrup until the sugar has completely dissolved.",
+      "Then add a pinch of salt and let the syrup simmer for another 20 minutes.",
+      "Finally stir in the lemon juice, simmer for another 5 minutes and then allow the syrup to cool at room temperature.",
+      "Once the baklava is golden brown, remove from the oven and allow to cool at room temperature.",
+      "Then spread the sugar syrup evenly over the baklava and leave to stand for 3 hours."
+    ],
+    "ingredients": [
+      {
+        "name": "Puff pastry, for baklava",
+        "amount": 500,
+        "measure": "g"
+      },
+      {
+        "name": "clarified butter",
+        "amount": 375,
+        "measure": "g"
+      },
+      {
+        "name": "Pistachios, chopped",
+        "amount": 200,
+        "measure": "g"
+      },
+      {
+        "name": "walnuts, ground",
+        "amount": 200,
+        "measure": "g"
+      },
+      {
+        "name": "Ground cinnamon",
+        "amount": 0.5,
+        "measure": "tsp"
+      },
+      {
+        "name": "breadcrumbs",
+        "amount": 2,
+        "measure": "tbsp"
+      },
+      {
+        "name": "Sugar",
+        "amount": 2,
+        "measure": "tbsp"
+      },
+      {
+        "name": "clove powder",
+        "amount": 1,
+        "measure": "tsp"
+      },
+      {
+        "name": "water",
+        "amount": 600,
+        "measure": "ml"
+      },
+      {
+        "name": "Sugar",
+        "amount": 400,
+        "measure": "g"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 1,
+        "measure": "tbsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "measure": "prize"
+      }
+    ],
+    "category": {
+      "mealType": "Dessert",
+      "meal": "Dessert",
+      "region": "Turkish"
+    },
+    "image": "/imgs/recept/pexels-rukiye-demir-12014350.jpg",
+
+    "preparationTime": 265,
+
+    "portion": 8,
+
+    "comment": [],
+
+    "recipeRanking": {
+      "five": 0,
+      "four": 0,
+      "three": 0,
+      "two": 0,
+      "one": 0
+    }
+  },
+  {
+    "name": "Simple marinated chicken wings",
+    "description": [
+      "For the marinade, juice the lime. Finely mince the garlic. Add both into a large bowl or a zipper bag with the soy sauce, honey, and vegetable oil. Mix until combined. Set aside 4 tbsp. of the marinade for basting later.",
+      "Add the chicken wings to the marinade. Let marinate for at least 30 min. or up to 6 hrs. in the fridge. When ready for the next step, set the oven to 220°C/430°F. Line a baking sheet with baking paper.",
+      "Roast wings in the oven for 20–25 min., flipping once halfway through. Once the wings have a dark golden brown color, and the juice runs clear when poked with a knife, they are ready. If you want more color, turn on the grilling function for a few minutes, but watch closely so they don’t burn. In the meantime, toast some sesame seeds for serving.",
+      "Place the wings on a serving plate and brush with some more leftover marinade. Top with toasted sesame seeds and serve with lime wedges."
+    ],
+    "ingredients": [
+      {
+        "name": "Chicken Wings",
+        "amount": 1500,
+        "measure": "g"
+      },
+      {
+        "name": "light soy sauce",
+        "amount": 80,
+        "measure": "ml"
+      },
+      {
+        "name": "honey",
+        "amount": 1,
+        "measure": "tbsp"
+      },
+      {
+        "name": "limes",
+        "amount": 2
+      },
+      {
+        "name": "garlic",
+        "amount": 2,
+        "measure": "clove(s)"
+      },
+      {
+        "name": "vegetable oil",
+        "amount": 4,
+        "measure": "tbsp"
+      },
+      {
+        "name": "sesame seed (toasted, for serving)",
+        "amount": 1,
+        "measure": "tbsp"
+      }
+    ],
+    "category": {
+      "mealType": "Main Course",
+      "meal": "Meat Dishes",
+      "region": "French"
+    },
+    "image": "/imgs/recept/chicken-wings.jpg",
+
+    "preparationTime": 80,
+
+    "portion": 6,
+
+    "comment": [],
+
+    "recipeRanking": {
+      "five": 0,
+      "four": 0,
+      "three": 0,
+      "two": 0,
+      "one": 0
+    }
+  },
+  {
+    "name": "Imam Bayildi",
+    "description": [
+      "Prepare the eggplants. Preheat your oven and line a baking pan with non-stick baking paper. Peel the eggplants in zebra stripes without removing the stem. You can use a vegetable peeler or sharp knife for this. Allow them to soak in salted water for 15 minutes and then gently squeeze out excess water and pat them dry with a paper towel. Prick some holes on the eggplants using a fork.",
+      "Brush each eggplant with some olive oil, and bake them in the oven for roughly 30 minutes or until they are tender.",
+      "Prepare the filling. Heat the olive oil and sauté the onions until they are translucent. Add the chopped green peppers and cook them for about 2-3 minutes. Then, add in your tomatoes, garlic, sugar, salt, and black pepper.",
+      "Cook these ingredients together for roughly 5 minutes. Remove the filling from the heat and add your freshly chopped mint and parsley.",
+      "stuff the eggplants. Cut lengthwise slits on the roasted eggplants without slicing all the way through. Using a teaspoon, gently push the edges in the deep slits to make a boat shape for the filling to lay in. Divide the filling between all of the eggplants. Place them in a baking dish, in a single layer.",
+      "Make the sauce. In a small bowl, whisk together the water and tomato paste and pour the sauce over the eggplants. Place them in the oven again and continue baking them for 30-40 minutes.",
+      "Remove from the oven and serve at room temperature or chilled."
+    ],
+    "ingredients": [
+      {
+        "name": "eggplants",
+        "amount": 4
+      },
+      {
+        "name": "salt"
+      },
+      {
+        "name": "pepper"
+      },
+      {
+        "name": "olive oil",
+        "amount": 125,
+        "measure": "ml"
+      },
+      {
+        "name": "onion",
+        "amount": 2
+      },
+      {
+        "name": "tomato",
+        "amount": 500,
+        "measure": "g"
+      },
+      {
+        "name": "garlic",
+        "amount": 2,
+        "measure": "toes"
+      },
+      {
+        "name": "parsley, chopped",
+        "amount": 50,
+        "measure": "g"
+      },
+      {
+        "name": "sugar",
+        "amount": 1,
+        "measure": "pinch"
+      }
+    ],
+    "category": {
+      "mealType": "Main Course",
+      "region": "Turkish",
+      "nutrition": "Vegan, Vegetarian"
+    },
+    "image": "/imgs/recept/imam-bayildi.jpg",
+
+    "preparationTime": 85,
+
+    "portion": 4,
+
+    "comment": [],
+
+    "recipeRanking": {
+      "five": 0,
+      "four": 0,
+      "three": 0,
+      "two": 0,
+      "one": 0
+    }
+  },
+  {
+    "name": "Tofu stir-fry with rice",
+    "description": [
+      "Add rice to saucepan. Cover with 1.5 parts of water, add salt and bring to a simmer. Reduce to low heat, cover and allow to cook for approx. 10 – 15 min. until fluffy and cooked through. Remove from heat and set aside.",
+      "Halve sugar snap peas with a diagonal cut, thinly slice bell pepper, and cut tofu lengthwise into even pieces.",
+      "Heat some vegetable oil in a frying pan over medium heat. Fry tofu slices on each side for approx. 3 – 5 min. until lightly roasted and crisp.",
+      "Add tofu, soy sauce, and sweet chili sauce to a bowl. Stir well to evenly coat tofu slices with marinade. Set aside.",
+      "Add nuts to pan and roast over medium-low heat until golden brown and fragrant. Set aside.",
+      "Heat some more vegetable oil in frying pan and sauté sugar snap peas and peppers in a pan over medium heat for approx. 5 – 7 min. until lightly roasted. Season with salt and pepper.",
+      "Add vegetables to tofu and gently stir to combine. Serve with rice. Sprinkle with toasted nuts and, if desired, with fresh cilantro leaves."
+    ],
+    "ingredients": [
+      {
+        "name": "rice",
+        "amount": 200,
+        "measure": "g"
+      },
+      {
+        "name": "water",
+        "amount": 300,
+        "measure": "ml"
+      },
+      {
+        "name": "snap peas",
+        "amount": 80,
+        "measure": "g"
+      },
+      {
+        "name": "red bell peppers",
+        "amount": 80,
+        "measure": "g"
+      },
+      {
+        "name": "smoked tofu",
+        "amount": 200,
+        "measure": "g"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 1,
+        "measure": "tbsp"
+      },
+      {
+        "name": "sweet chili sauce",
+        "amount": 1,
+        "measure": "tbsp"
+      },
+      {
+        "name": "peanuts",
+        "amount": 40,
+        "measure": "g"
+      },
+      {
+        "name": "salt"
+      },
+      {
+        "name": "pepper"
+      },
+      {
+        "name": "vegetable oil (for frying)"
+      },
+      {
+        "name": "cilantro (for serving)"
+      }
+    ],
+    "category": {
+      "mealType": "Main Course",
+      "region": "Asian"
+    },
+    "image": "/imgs/recept/tofu.webp",
+
+    "preparationTime": 30,
+
+    "portion": 2,
+
+    "comment": [],
+
+    "recipeRanking": {
+      "five": 0,
+      "four": 0,
+      "three": 0,
+      "two": 0,
+      "one": 0
+    }
+  },
+  {
+    "name": "Basic potato gratin",
+    "description": [
+      "Preheat oven to 170°C/340°F. Peel and cut the clove of garlic in half. Rub baking dish first with cut side of the garlic and then grease with butter.",
+      "Peel potatoes if desired and cut into thin slices. Arrange the slices in overlapping layers in the baking dish.",
+      "Generously season heavy cream with nutmeg, salt and pepper and pour over potatoes. Bake in preheated oven at 170°C/340°F on the bottom rack for approx. 40 – 45 min. until golden. Allow to cool for 5 min. before serving."
+    ],
+    "ingredients": [
+      {
+        "name": "potatoes",
+        "amount": 700,
+        "measure": "g"
+      },
+      {
+        "name": "whipping cream",
+        "amount": 500,
+        "measure": "ml"
+      },
+      {
+        "name": "garlic",
+        "amount": 1,
+        "measure": "clove(s)"
+      },
+      {
+        "name": "nutmeg (ground)",
+        "amount": 0.25,
+        "measure": "tsp"
+      },
+      {
+        "name": "butter for greasing"
+      },
+      {
+        "name": "salt"
+      },
+      {
+        "name": "pepper"
+      }
+    ],
+    "category": {
+      "meal": "Sides",
+      "region": "German"
+    },
+    "image": "/imgs/recept/BasicPotatoGratin_Final.webp",
+
+    "preparationTime": 60,
+
+    "portion": 6,
 
     "comment": [],
 
