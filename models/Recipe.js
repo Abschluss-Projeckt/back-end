@@ -40,6 +40,8 @@ const schema = new mongoose.Schema(
     comments: [Schemas.comments],
 
     recipeRanking: Schemas.recipeRanking,
+
+    explanation: String,
   },
   {
     versionKey: false,

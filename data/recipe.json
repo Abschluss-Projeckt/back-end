@@ -173,7 +173,8 @@
       "three": 0,
       "two": 0,
       "one": 0
-    }
+    },
+    "explanation": "These juicy homemade cheeseburgers are worth staying home for! A perfectly seasoned beef patty, covered with melted cheese and topped with pickles, onion, ketchup and mustard- all encased in a soft brioche bun. Who wants a cheeseburger that tastes better than your favourite takeaway version?! Perfect for family burger night- or any time."
   },
   {
     "name": "Baba Ganoush",
@@ -249,7 +250,8 @@
       "three": 0,
       "two": 0,
       "one": 0
-    }
+    },
+    "explanation": "The traditional preparation method of Baba Ganoush is for the eggplant to be roasted or broiled over an open flame before peeling, so that the pulp is soft and has a smoky taste. It is a typical meze of Lebanese cuisine, often eaten as a dip and is sometimes added to other dishes."
   },
   {
     "name": "Turkish Baklava",
@@ -347,7 +349,8 @@
       "three": 0,
       "two": 0,
       "one": 0
-    }
+    },
+    "explanation": "My recipe for baklava is inspired by my years in Istanbul, Turkey where we used to get cevizli baklava (walnut baklava) or fıstıklı baklava (pistachio baklava) regularly from a shop right by the Bosporus called Faruk Güllüoğlu."
   },
   {
     "name": "Simple marinated chicken wings",
@@ -412,7 +415,8 @@
       "three": 0,
       "two": 0,
       "one": 0
-    }
+    },
+    "explanation": "Chicken wings are perfect when you want to grill (on an actual BBQ or in the oven) something simple and delicious for a crowd. They are forgiving in that they are hard to overcook. In this recipe, we made a quick marinade to ensure they’re seasoned inside and out. The soy sauce adds both a nice golden brown color and an umami touch, balanced with honey and lime. Remember to put aside some of the marinade for brushing on right before serving."
   },
   {
     "name": "Imam Bayildi",
@@ -485,7 +489,8 @@
       "three": 0,
       "two": 0,
       "one": 0
-    }
+    },
+    "explanation": "Turkish stuffed aubergines so delicious the imam who first ate them, fainted out of pure delight. Or was it in shock? Nevermind, the only thing that matters is this: Imam bayildi is perhaps the most delicious thing you can make with the mighty aubergine."
   },
   {
     "name": "Tofu stir-fry with rice",
@@ -707,7 +712,8 @@
       "three": 0,
       "two": 0,
       "one": 0
-    }
+    },
+    "explanation": "A simple soy sauce and brown sugar marinade, with hints of lemon and garlic, are the perfect salty-sweet complement to rich salmon fillets. Even my 9 year old loves this recipe!"
   },
   {
     "name": "Neapolitan-style pizza",
@@ -802,7 +808,8 @@
       "three": 0,
       "two": 0,
       "one": 0
-    }
+    },
+    "explanation": "If you want to make pizza night a regular thing at home you need a recipe that suits your schedule—and gives you foolproof pizza. This recipe is my go-to, no matter whether I want to eat pizza pronto, the next day or even the day after—and you don’t need any fancy equipment like a pizza stone for a great result."
   },
   {
     "name": "Classic tiramisu",
@@ -876,7 +883,8 @@
       "three": 0,
       "two": 0,
       "one": 0
-    }
+    },
+    "explanation": "For this tiramisu recipe I used strong and freshly brewed espresso, not the instant powder. It makes a difference, trust me. Make sure the coffee has cooled slightly and that you don't soak the ladyfingers, but just quickly dunk them in the Amaretto-espresso mixture. "
   },
   {
     "name": "One-pot creamy Cajun chicken pasta",
@@ -949,6 +957,7 @@
       "three": 0,
       "two": 0,
       "one": 0
-    }
+    },
+    "explanation": "This convenient, creamy one-pot pasta is all a weeknight dinner should be, spiced up with delicious Cajun seasoning from Louisiana. If you can't find the spice mix at the supermarket, you can also make it at home. Just mix 2 tsp smoked paprika, 1 tsp oregano, 1 tsp thyme, ½ tsp garlic powder, ½ tsp onion powder, ½ tsp cumin, ¼ tsp cayenne pepper, ¼ tsp black pepper, and ¼ tsp salt together in an airtight glass jar. The spice mix goes really well with fish and chicken."
   }
 ]
