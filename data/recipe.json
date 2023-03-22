@@ -629,5 +629,326 @@
       "two": 0,
       "one": 0
     }
+  },
+  {
+    "name": "Sriracha lime-glazed salmon",
+    "description": [
+      "Peel and finely chop garlic. Whisk together lime zest, lime juice, honey, Sriracha, and garlic in small bowl. Reserve half of the mixture.",
+      "Season salmon with salt and pepper. Brush with some of the sriracha mixture.",
+      "Preheat oven to 220°C/425°F. Heat oil in large ovenproof frying pan over medium-high heat. Once oil starts to shimmer, add salmon, flesh side-down. Fry for approx. 1 min. or until golden. Flip over. Brush with more of the Sriracha mixture.",
+      "Transfer to oven in frying pan and bake at 220°C/425°F for approx. 10 min., brushing with Sriracha mixture halfway through. The salmon is done when it flakes easily when tested with a fork.",
+      "Drizzle with reserved Sriracha mixture. Sprinkle with sesame seeds and green onions. If desired, serve with a side of steamed bok choy. Enjoy!"
+    ],
+    "ingredients": [
+      {
+        "name": "salmon fillets (wild)",
+        "amount": 4
+      },
+      {
+        "name": "Sriracha",
+        "amount": 2,
+        "measure": "tbsp"
+      },
+      {
+        "name": "garlic",
+        "amount": 2,
+        "measure": "clove(s)"
+      },
+      {
+        "name": "limes (zest)",
+        "amount": 2
+      },
+      {
+        "name": "lime (juice)",
+        "amount": 1
+      },
+      {
+        "name": "honey",
+        "amount": 90,
+        "measure": "g"
+      },
+      {
+        "name": "sesame oil",
+        "amount": 2,
+        "measure": "tsp"
+      },
+      {
+        "name": "salt"
+      },
+      {
+        "name": "pepper"
+      },
+      {
+        "name": "sesame seeds for serving"
+      },
+      {
+        "name": "sliced green onions for serving"
+      },
+      {
+        "name": "steamed bok choy for serving"
+      }
+    ],
+    "category": {
+      "mealType": "Main Course",
+      "meal": "Fish Dishes",
+      "region": "Asian"
+    },
+    "image": "/imgs/recept/R669-photo-final-4x3.webp",
+
+    "preparationTime": 30,
+
+    "portion": 4,
+
+    "comment": [],
+
+    "recipeRanking": {
+      "five": 0,
+      "four": 0,
+      "three": 0,
+      "two": 0,
+      "one": 0
+    }
+  },
+  {
+    "name": "Neapolitan-style pizza",
+    "description": [
+      "Add 00 flour, whole wheat flour, and dry yeast to a large bowl. Mix with a whisk until combined. Add the lukewarm water. Mix with a rubber spatula until no dry flour is visible. The dough will be relatively moist at this point. Drizzle the surface with a little olive oil, then cover with a kitchen towel or dough cover and leave to rise in a warm place. After approx. 1.5 – 2 hrs, the volume should have doubled and you can continue with step 2. Alternatively, you can leave the dough in the fridge to slowly rise overnight to further develop flavor and get an even puffier result.",
+      "Dust a work surface with flour. Tip the dough out of the bowl, fold each side into the centre to trap in some air and turn it over. Use flour as needed to help handle the dough (this will depend on how wet your dough is), but use sparingly. Divide the dough into four equal parts using a dough cutter. Fold each of these pieces using the same method as above. Place each dough ball seam-side down and shape into a firm ball using the edges of your hands and moving in a circular motion. Now either store, individually wrapped, in the fridge for up to 3 days (take out 1 hr. before baking), store in the freezer for up to 3 months (take out at least 8 hrs. before baking) or leave to rest on the work surface for approx. 1 hr. (if you’re in an absolute hurry, you could reduce this resting time) and use immediately.",
+      "In the meantime, preheat the oven to the highest setting on the top/bottom heat function and place an inverted baking sheet on the lowest shelf. Once the oven is preheated and the rising time is over, shape each dough ball into a pizza: Flour the work surface and use your fingertips to flatten the ball from the inside out, leaving a thick edge. Use flour as needed. Once your palm can fit in the centre, lift the dough up and use gravity, stretching gently. to help you form a larger pizza. Place on a sheet of parchment paper, which, if you have one, you can place on top of a pizza paddle.",
+      "Top your pizza with whatever you like best. I like to use canned tomatoes mixed with fresh garlic, salt and a little olive oil as a base and then add buffalo mozzarella and basil after baking. It’s best not to use too much sauce, 1.5 – 2 tablespoons are usually enough, and be sure to transfer your pizza in the oven with the baking paper immediately after topping so that the raw dough doesn't draw in too much liquid. As soon as the pizza has baked through, after approx. 3 – 4 min., carefully remove the parchment paper from underneath and finish baking the pizza. Keep baking for approx. 8 – 12 min. (the timing will depend on your oven) until your crust is browned. Repeat the process with the remaining dough. If you like, finish with some lemon zest and freshly grated Parmesan.",
+      "Happy pizza making—enjoy!"
+    ],
+    "ingredients": [
+      {
+        "name": "Italian 00 flour",
+        "amount": 400,
+        "measure": "g"
+      },
+      {
+        "name": "whole-wheat flour",
+        "amount": 100,
+        "measure": "g"
+      },
+      {
+        "name": "active dry yeast",
+        "amount": 1,
+        "measure": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 2.5,
+        "measure": "tsp"
+      },
+      {
+        "name": "water (lukewarm)",
+        "amount": 500,
+        "measure": "ml"
+      },
+      {
+        "name": "canned crushed tomatoes",
+        "amount": 400,
+        "measure": "g"
+      },
+      {
+        "name": "garlic",
+        "amount": 1,
+        "measure": "clove(s)"
+      },
+      {
+        "name": "olive oil",
+        "amount": 1,
+        "measure": "tbsp"
+      },
+      {
+        "name": "buffalo mozzarella cheese",
+        "amount": 200,
+        "measure": "g"
+      },
+      {
+        "name": "basil (for serving)",
+        "amount": 1,
+        "measure": "stalk"
+      },
+      {
+        "name": "lemon (for serving)",
+        "amount": 1
+      },
+      {
+        "name": "flour (for dusting)"
+      },
+      {
+        "name": "olive oil (for greasing)"
+      },
+      {
+        "name": "Parmesan cheese (grated, for serving)"
+      }
+    ],
+    "category": {
+      "mealType": "Main Course",
+      "meal": "Pizza & Pasta",
+      "region": "Italian"
+    },
+    "image": "/imgs/recept/R669-photo-final-4x3.webp",
+
+    "preparationTime": 30,
+
+    "portion": 4,
+
+    "comment": [],
+
+    "recipeRanking": {
+      "five": 0,
+      "four": 0,
+      "three": 0,
+      "two": 0,
+      "one": 0
+    }
+  },
+  {
+    "name": "Classic tiramisu",
+    "description": [
+      "Separate eggs. Beat egg yolks with some confectioner’s sugar until pale and fluffy. Add Amaretto and mascarpone. Beat until smooth.",
+      "Beat egg whites with a pinch of salt until stiff peaks form. Slowly whisk in the remaining confectioner’s sugar. Carefully fold beaten egg whites into mascarpone cream.",
+      "Beat egg whites with a pinch of salt until stiff peaks form. Slowly whisk in the remaining confectioner’s sugar. Carefully fold beaten egg whites into mascarpone cream.",
+      "Repeat layering process until all ingredients are used up. Finish up with a layer of mascarpone cream, finely grated chocolate, and a dusting of unsweetened cocoa powder. Refrigerate for approx. at least 3 hrs. before serving. Enjoy!"
+    ],
+    "ingredients": [
+      {
+        "name": "mascarpone cheese",
+        "amount": 250,
+        "measure": "g"
+      },
+      {
+        "name": "ladyfingers",
+        "amount": 250,
+        "measure": "g"
+      },
+      {
+        "name": "eggs",
+        "amount": 2
+      },
+      {
+        "name": "confectioner’s sugar",
+        "amount": 60,
+        "measure": "g"
+      },
+      {
+        "name": "espresso",
+        "amount": 100,
+        "measure": "ml"
+      },
+      {
+        "name": "amaretto",
+        "amount": 3,
+        "measure": "tbsp"
+      },
+      {
+        "name": "bittersweet chocolate",
+        "amount": 1,
+        "measure": "tbsp"
+      },
+      {
+        "name": "unsweetened cocoa powder",
+        "amount": 1,
+        "measure": "tbsp"
+      },
+      {
+        "name": "salt"
+      }
+    ],
+    "category": {
+      "mealType": "Dessert",
+      "meal": "Dessert",
+      "region": "Italian",
+      "nutrition": "Vegetarian"
+    },
+    "image": "/imgs/recept/tiramisu.webp",
+
+    "preparationTime": 30,
+
+    "portion": 6,
+
+    "comment": [],
+
+    "recipeRanking": {
+      "five": 0,
+      "four": 0,
+      "three": 0,
+      "two": 0,
+      "one": 0
+    }
+  },
+  {
+    "name": "One-pot creamy Cajun chicken pasta",
+    "description": [
+      "Cut the chicken into equal bite-sized cubes. Deseed the peppers and cut them into squares. Finely dice the onion and garlic.",
+      "Toss the diced chicken with the Cajun seasoning and season with salt. Heat the oil and butter in a large pot. Add the chicken and sear for approx. 4—5 min, tossing regularly. The chicken does not need to be cooked through, as it will continue cooking later on. Remove the chicken from the pan and transfer to a bowl.",
+      "Next, add the diced onion and bell pepper to the pot and sauté for approx. 4—5 min. until soft. Then, add the garlic and fry, for another 30 sec. Transfer the chicken back to the pan and add the pasta, diced tomatoes, and chicken stock. Add more stock or water to cover the pasta if needed. Now bring to a boil, then reduce the heat and let simmer for approx. 10 min., until the pasta is al dente and the chicken is cooked through.",
+      "Stir in the cream cheese until it is melted and incorporated into the sauce. Season to taste with salt and pepper and serve the pasta with freshly chopped parsley. Enjoy!"
+    ],
+    "ingredients": [
+      {
+        "name": "chicken breasts",
+        "amount": 700,
+        "measure": "g"
+      },
+      {
+        "name": "Cajun seasoning",
+        "amount": 3,
+        "measure": "tbsp"
+      },
+      {
+        "name": "penne",
+        "amount": 500,
+        "measure": "g"
+      },
+      {
+        "name": "red bell pepper",
+        "amount": 1
+      },
+      {
+        "name": "espresso",
+        "amount": 100,
+        "measure": "ml"
+      },
+      {
+        "name": "amaretto",
+        "amount": 3,
+        "measure": "tbsp"
+      },
+      {
+        "name": "bittersweet chocolate",
+        "amount": 1,
+        "measure": "tbsp"
+      },
+      {
+        "name": "unsweetened cocoa powder",
+        "amount": 1,
+        "measure": "tbsp"
+      },
+      {
+        "name": "salt"
+      }
+    ],
+    "category": {
+      "mealType": "Main Course",
+      "meal": "Pizza & Pasta",
+      "region": "Italian"
+    },
+    "image": "/imgs/recept/pasta.webp",
+
+    "preparationTime": 30,
+
+    "portion": 4,
+
+    "comment": [],
+
+    "recipeRanking": {
+      "five": 0,
+      "four": 0,
+      "three": 0,
+      "two": 0,
+      "one": 0
+    }
   }
 ]
