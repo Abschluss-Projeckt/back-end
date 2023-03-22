@@ -398,7 +398,7 @@
       "meal": "Meat Dishes",
       "region": "French"
     },
-    "image": "/imgs/recept/chicken-wings.jpg",
+    "image": "/imgs/recept/chicken-wings.webp",
 
     "preparationTime": 80,
 
@@ -788,7 +788,7 @@
       "meal": "Pizza & Pasta",
       "region": "Italian"
     },
-    "image": "/imgs/recept/R669-photo-final-4x3.webp",
+    "image": "/imgs/recept/neapolitan-pizza.webp",
 
     "preparationTime": 30,
 

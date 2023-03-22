@@ -49,12 +49,12 @@ const schema = new mongoose.Schema(
 const Recipe = mongoose.model("Recipe", schema);
 
 export const getAll = async () => {
-  const recipes = await Recipe.find(); /*.populate("user")*/
+  const recipes = await Recipe.find().populate("user");
   return recipes;
 };
 
 export const getOne = async (recipeId) => {
-  const recipe = await Recipe.findById(recipeId); /*.populate("user")*/
+  const recipe = await Recipe.findById(recipeId).populate("user");
 
   return recipe;
 };

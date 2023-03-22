@@ -71,14 +71,20 @@ export const category = new mongoose.Schema(
   }
 );
 
-export const ingredients = new mongoose.Schema({
-  name: {
-    type: String,
-    required: true,
+export const ingredients = new mongoose.Schema(
+  {
+    name: {
+      type: String,
+      required: true,
+    },
+    amount: Number,
+    measure: String,
   },
-  amount: Number,
-  measure: String,
-});
+  {
+    _id: false,
+    versionKey: false,
+  }
+);
 
 export const comments = new mongoose.Schema(
   {
