@@ -39,7 +39,7 @@ const schema = new mongoose.Schema(
 
     comments: [Schemas.comments],
 
-    recipeRanking: Schemas.recipeRanking,
+    recipeRanking: [Number],
 
     explanation: String,
   },

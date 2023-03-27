@@ -1,5 +1,4 @@
 import mongoose from "mongoose";
-import User from "./User.js";
 
 export const category = new mongoose.Schema(
   {
@@ -100,19 +99,5 @@ export const comments = new mongoose.Schema(
   {
     versionKey: false,
     timestamps: true,
-  }
-);
-
-export const recipeRanking = new mongoose.Schema(
-  {
-    five: Number,
-    four: Number,
-    three: Number,
-    two: Number,
-    one: Number,
-  },
-  {
-    _id: false,
-    versionKey: false,
   }
 );
