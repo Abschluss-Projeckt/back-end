@@ -81,7 +81,7 @@ export const logout = async (req, res, next) => {
     if (err) {
       return next(err);
     }
-    res.redirect("/login").status(200).send();
+    res.status(200).send();
   });
 
   // try {
