@@ -11,6 +11,7 @@ export const getUser = async (req, res, next) => {
       image: user.image,
       recipes: user.recipes,
       likedRecipes: user.likedRecipes,
+      savedRecipes: user.savedRecipes,
       shoppingList: user.shoppingList,
     };
 
