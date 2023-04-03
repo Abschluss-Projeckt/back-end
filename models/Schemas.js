@@ -95,9 +95,12 @@ export const comments = new mongoose.Schema(
       type: mongoose.Schema.Types.ObjectId,
       ref: "User",
     },
+    date: {
+      type: String,
+      required: true,
+    },
   },
   {
     versionKey: false,
-    timestamps: true,
   }
 );

@@ -75,6 +75,11 @@ export const create = async (data) => {
   return newUser;
 };
 
+export const getAllUsers = async () => {
+  const users = await User.find();
+  return users;
+};
+
 export const getOne = async (filter) => {
   const result = await User.findOne(filter);
   return result;

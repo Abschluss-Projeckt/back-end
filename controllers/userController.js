@@ -1,5 +1,28 @@
 import * as User from "../models/User.js";
 
+export const getAllUsers = async (req, res, next) => {
+  try {
+    const users = await User.getAllUsers();
+
+    const allUsers = users.map((user) => {
+      return {
+        userName: user.userName,
+        email: user.email,
+        id: user._id,
+        image: user.image,
+        recipes: user.recipes,
+        likedRecipes: user.likedRecipes,
+        savedRecipes: user.savedRecipes,
+        shoppingList: user.shoppingList,
+      };
+    });
+    res.status(200).json(allUsers);
+  } catch (err) {
+    err.statusCode = 400;
+    next(err);
+  }
+};
+
 export const getUser = async (req, res, next) => {
   try {
     const user = await User.getOneUser(req.params.userId);
