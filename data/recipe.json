@@ -163,6 +163,8 @@
 
     "recipeRanking": [],
 
+    "user": "64254133b4996d8b690f7f6b",
+
     "explanation": "These juicy homemade cheeseburgers are worth staying home for! A perfectly seasoned beef patty, covered with melted cheese and topped with pickles, onion, ketchup and mustard- all encased in a soft brioche bun. Who wants a cheeseburger that tastes better than your favourite takeaway version?! Perfect for family burger night- or any time."
   },
   {
@@ -234,6 +236,8 @@
     "comments": [],
 
     "recipeRanking": [],
+
+    "user": "64254133b4996d8b690f7f6b",
 
     "explanation": "The traditional preparation method of Baba Ganoush is for the eggplant to be roasted or broiled over an open flame before peeling, so that the pulp is soft and has a smoky taste. It is a typical meze of Lebanese cuisine, often eaten as a dip and is sometimes added to other dishes."
   },
@@ -329,6 +333,8 @@
 
     "recipeRanking": [],
 
+    "user": "64254133b4996d8b690f7f6b",
+
     "explanation": "My recipe for baklava is inspired by my years in Istanbul, Turkey where we used to get cevizli baklava (walnut baklava) or fıstıklı baklava (pistachio baklava) regularly from a shop right by the Bosporus called Faruk Güllüoğlu."
   },
   {
@@ -389,6 +395,8 @@
     "comments": [],
 
     "recipeRanking": [],
+
+    "user": "64254133b4996d8b690f7f6b",
 
     "explanation": "Chicken wings are perfect when you want to grill (on an actual BBQ or in the oven) something simple and delicious for a crowd. They are forgiving in that they are hard to overcook. In this recipe, we made a quick marinade to ensure they’re seasoned inside and out. The soy sauce adds both a nice golden brown color and an umami touch, balanced with honey and lime. Remember to put aside some of the marinade for brushing on right before serving."
   },
@@ -458,6 +466,8 @@
     "comments": [],
 
     "recipeRanking": [],
+
+    "user": "64254133b4996d8b690f7f6b",
 
     "explanation": "Turkish stuffed aubergines so delicious the imam who first ate them, fainted out of pure delight. Or was it in shock? Nevermind, the only thing that matters is this: Imam bayildi is perhaps the most delicious thing you can make with the mighty aubergine."
   },
@@ -665,6 +675,8 @@
 
     "recipeRanking": [],
 
+    "user": "64254133b4996d8b690f7f6b",
+
     "explanation": "A simple soy sauce and brown sugar marinade, with hints of lemon and garlic, are the perfect salty-sweet complement to rich salmon fillets. Even my 9 year old loves this recipe!"
   },
   {
@@ -756,6 +768,8 @@
 
     "recipeRanking": [],
 
+    "user": "64254133b4996d8b690f7f6b",
+
     "explanation": "If you want to make pizza night a regular thing at home you need a recipe that suits your schedule—and gives you foolproof pizza. This recipe is my go-to, no matter whether I want to eat pizza pronto, the next day or even the day after—and you don’t need any fancy equipment like a pizza stone for a great result."
   },
   {
@@ -826,6 +840,8 @@
 
     "recipeRanking": [],
 
+    "user": "64254133b4996d8b690f7f6b",
+
     "explanation": "For this tiramisu recipe I used strong and freshly brewed espresso, not the instant powder. It makes a difference, trust me. Make sure the coffee has cooled slightly and that you don't soak the ladyfingers, but just quickly dunk them in the Amaretto-espresso mixture. "
   },
   {
@@ -894,6 +910,8 @@
     "comments": [],
 
     "recipeRanking": [],
+
+    "user": "64254133b4996d8b690f7f6b",
 
     "explanation": "This convenient, creamy one-pot pasta is all a weeknight dinner should be, spiced up with delicious Cajun seasoning from Louisiana. If you can't find the spice mix at the supermarket, you can also make it at home. Just mix 2 tsp smoked paprika, 1 tsp oregano, 1 tsp thyme, ½ tsp garlic powder, ½ tsp onion powder, ½ tsp cumin, ¼ tsp cayenne pepper, ¼ tsp black pepper, and ¼ tsp salt together in an airtight glass jar. The spice mix goes really well with fish and chicken."
   },
@@ -976,6 +994,8 @@
 
     "recipeRanking": [],
 
+    "user": "64254133b4996d8b690f7f6b",
+
     "explanation": "Hello Everybody! Today I would like to share with you my Stuffed Flounder recipe I make every year on Christmas Eve! I make a lot of fish recipes for the family on Christmas Eve, like seafood salad, linguine with clams, and oysters, but this stuffed flounder is one of the favorites. Watch the full video to follow along as I cook this recipe step by step or continue scrolling for the written recipe."
   },
   {
@@ -1026,85 +1046,89 @@
 
     "recipeRanking": [],
 
+    "user": "64254133b4996d8b690f7f6b",
+
     "explanation": "This garlic butter steak recipe is a classic and never fails to impress. It's quick, easy, and packed with flavor. Serve it with a side of roasted vegetables or a simple salad for a complete meal."
-},
-{
-  "name": "Mushroom Risotto",
-  "description": [
-  "Start by heating the broth in a saucepan and keeping it warm over low heat.",
-  "In a separate large saucepan, melt the butter over medium heat. Add the onion and cook until it becomes translucent, stirring occasionally.",
-  "Add the mushrooms and cook until they are tender and release their liquid, stirring occasionally.",
-  "Add the rice and stir until the grains are coated with the butter and start to turn translucent, about 2-3 minutes.",
-  "Pour in the white wine and stir until it evaporates.",
-  "Add a ladleful of the warm broth to the rice and stir constantly until the broth is absorbed. Repeat with the remaining broth, one ladleful at a time, until the rice is cooked al dente, about 18-20 minutes.",
-  "Stir in the grated Parmesan cheese and chopped parsley, and season with salt and black pepper to taste.",
-  "Remove from heat and let the risotto rest for a few minutes before serving.",
-  "Garnish with additional Parmesan cheese and parsley, if desired, and enjoy!"
-  ],
-  "ingredients": [
-  {
-  "name": "vegetable broth",
-  "amount": 960,
-  "measure": "ml"
   },
   {
-  "name": "butter",
-  "amount": 57,
-  "measure": "g"
-  },
-  {
-  "name": "onion (finely chopped)",
-  "amount": 1,
-  "measure": "medium"
-  },
-  {
-  "name": "mushrooms (sliced)",
-  "amount": 450,
-  "measure": "g"
-  },
-  {
-  "name": "Arborio rice",
-  "amount": 360,
-  "measure": "g"
-  },
-  {
-  "name": "white wine",
-  "amount": 120,
-  "measure": "ml"
-  },
-  {
-  "name": "Parmesan cheese (grated)",
-  "amount": 113,
-  "measure": "g"
-  },
-  {
-  "name": "parsley (chopped)",
-  "amount": 1,
-  "measure": "handful"
-  },
-  {
-  "name": "salt"
-  },
-  {
-  "name": "black pepper"
-  }
-  ],
-  "category": {
-  "mealType": "Main Course",
-  "meal": "Risotto",
-  "region": "Italian"
-  },
-  "image": "/imgs/recept/mushroomRisotto.jpg",
-  
-  "preparationTime": 30,
-  
-  "portion": 4,
-  
-  "comments": [],
-  
-  "recipeRanking": [],
-  
-  "explanation": "This mushroom risotto recipe is one of my favorite comfort foods. It's warm, creamy, and packed with savory mushroom flavor. The key to making a great risotto is to use Arborio rice, which is a short-grain rice that has a high starch content. This allows the rice to absorb the broth and create a creamy texture. Enjoy this dish as a main course or as a side dish with your favorite protein. Buon appetito!"
+    "name": "Mushroom Risotto",
+    "description": [
+      "Start by heating the broth in a saucepan and keeping it warm over low heat.",
+      "In a separate large saucepan, melt the butter over medium heat. Add the onion and cook until it becomes translucent, stirring occasionally.",
+      "Add the mushrooms and cook until they are tender and release their liquid, stirring occasionally.",
+      "Add the rice and stir until the grains are coated with the butter and start to turn translucent, about 2-3 minutes.",
+      "Pour in the white wine and stir until it evaporates.",
+      "Add a ladleful of the warm broth to the rice and stir constantly until the broth is absorbed. Repeat with the remaining broth, one ladleful at a time, until the rice is cooked al dente, about 18-20 minutes.",
+      "Stir in the grated Parmesan cheese and chopped parsley, and season with salt and black pepper to taste.",
+      "Remove from heat and let the risotto rest for a few minutes before serving.",
+      "Garnish with additional Parmesan cheese and parsley, if desired, and enjoy!"
+    ],
+    "ingredients": [
+      {
+        "name": "vegetable broth",
+        "amount": 960,
+        "measure": "ml"
+      },
+      {
+        "name": "butter",
+        "amount": 57,
+        "measure": "g"
+      },
+      {
+        "name": "onion (finely chopped)",
+        "amount": 1,
+        "measure": "medium"
+      },
+      {
+        "name": "mushrooms (sliced)",
+        "amount": 450,
+        "measure": "g"
+      },
+      {
+        "name": "Arborio rice",
+        "amount": 360,
+        "measure": "g"
+      },
+      {
+        "name": "white wine",
+        "amount": 120,
+        "measure": "ml"
+      },
+      {
+        "name": "Parmesan cheese (grated)",
+        "amount": 113,
+        "measure": "g"
+      },
+      {
+        "name": "parsley (chopped)",
+        "amount": 1,
+        "measure": "handful"
+      },
+      {
+        "name": "salt"
+      },
+      {
+        "name": "black pepper"
+      }
+    ],
+    "category": {
+      "mealType": "Main Course",
+      "meal": "Risotto",
+      "region": "Italian"
+    },
+    "image": "/imgs/recept/mushroomRisotto.jpg",
+
+    "preparationTime": 30,
+
+    "portion": 4,
+
+    "comments": [],
+
+    "recipeRanking": [],
+
+    "user": "64254133b4996d8b690f7f6b",
+
+    "explanation": "This mushroom risotto recipe is one of my favorite comfort foods. It's warm, creamy, and packed with savory mushroom flavor. The key to making a great risotto is to use Arborio rice, which is a short-grain rice that has a high starch content. This allows the rice to absorb the broth and create a creamy texture. Enjoy this dish as a main course or as a side dish with your favorite protein. Buon appetito!"
   },
   {
     "name": "Vegetable Stir-Fry",
@@ -1174,7 +1198,9 @@
     "portion": 4,
     "comments": [],
     "recipeRanking": [],
-    "explanation": "This vegetable stir-fry is a quick and easy vegetarian meal that's perfect for a busy weeknight. The combination of fresh vegetables and savory sauce makes for a delicious and healthy dinner. Serve it over rice or noodles for a complete meal that's sure to satisfy!" 
+
+    "user": "64254133b4996d8b690f7f6b",
+    "explanation": "This vegetable stir-fry is a quick and easy vegetarian meal that's perfect for a busy weeknight. The combination of fresh vegetables and savory sauce makes for a delicious and healthy dinner. Serve it over rice or noodles for a complete meal that's sure to satisfy!"
   },
   {
     "name": "Creamy Garlic Mushroom Chicken",
@@ -1260,507 +1286,514 @@
 
     "recipeRanking": [],
 
-    "explanation": "This creamy garlic mushroom chicken recipe is a restaurant-quality meal that you can easily make at home. It's perfect for a weeknight dinner or a special occasion. The chicken is cooked to perfection and then smothered in a rich and creamy mushroom sauce that's flavored with garlic and herbs. Serve it over pasta, rice, or with a side of vegetables for a complete meal. Enjoy!" 
-},
-{
-  "name": "Chiles Rellenos",
-  "description": [
-    "Preheat oven to 375°F (190°C).",
-    "Roast the poblano peppers on a gas burner or under the broiler until charred all over. Place the peppers in a bowl, cover with plastic wrap, and let sit for 15 minutes. Remove the charred skin from the peppers and discard the seeds.",
-    "In a skillet, cook the ground beef over medium heat until browned. Add the onion, garlic, cumin, and oregano and cook until the onion is translucent. Add the tomatoes and cook until the mixture has thickened.",
-    "Stuff the poblano peppers with the ground beef mixture and place them in a baking dish. Top with grated cheese and bake in the oven until the cheese is melted and bubbly, about 15 minutes.",
-    "Serve with rice and beans."
-  ],
-  "ingredients": [
-    {
-      "name": "poblano peppers",
-      "amount": 6
-    },
-    {
-      "name": "ground beef",
-      "amount": 454,
-      "measure": "g"
-    },
-    {
-      "name": "onion",
-      "amount": 1,
-      "measure": "large"
-    },
-    {
-      "name": "garlic",
-      "amount": 2,
-      "measure": "clove(s)"
-    },
-    {
-      "name": "cumin",
-      "amount": 1,
-      "measure": "tsp"
-    },
-    {
-      "name": "dried oregano",
-      "amount": 1,
-      "measure": "tsp"
-    },
-    {
-      "name": "tomatoes",
-      "amount": 414,
-      "measure": "ml",
-      "note": "diced"
-    },
-    {
-      "name": "cheddar cheese",
-      "amount": 1,
-      "measure": "cup",
-      "note": "grated"
-    }
-  ],
-  "category": {
-    "mealType": "Main",
-    "meal": "Dinner",
-    "region": "Mexican"
-  },
-  "image": "/imgs/recept/chilesRellenos.webp",
+    "user": "64254133b4996d8b690f7f6b",
 
-  "preparationTime": 45,
-
-  "portion": 6,
-
-  "comments": [],
-
-  "recipeRanking": [],
-
-  "explanation": "Chiles Rellenos, or stuffed peppers, are a classic Mexican dish that are perfect for a hearty and satisfying dinner. This recipe uses poblano peppers stuffed with a savory ground beef mixture and topped with melted cheese. Serve with rice and beans for a complete meal. Enjoy!"
-},
-{
-  "name": "Jollof Rice",
-  "description": [
-  "Begin by washing the rice in cold water until the water runs clear. Drain and set aside.",
-  "Heat up the oil in a large pot over medium heat. Add in the chopped onions and sauté until translucent. Add in the garlic and ginger and cook for another minute.",
-  "Add the tomato paste and cook for a minute or two, stirring constantly to prevent burning. Then add in the chopped tomatoes and cook for about 5 minutes, stirring occasionally.",
-  "Add in the chicken broth, bay leaves, and thyme. Bring to a boil and then reduce heat to low. Simmer for 10-15 minutes until the sauce thickens and the flavors meld together.",
-  "Add in the rice and stir well to combine with the sauce. Cover the pot and simmer on low heat for 20-25 minutes, or until the rice is cooked and tender. Do not stir the rice during cooking.",
-  "Once the rice is done, remove from heat and let it sit for 5-10 minutes to steam. Fluff the rice with a fork and serve hot with your choice of protein or vegetables. Enjoy!"
-  ],
-  "ingredients": [
-  {
-  "name": "long-grain rice",
-  "amount": 2,
-  "measure": "cups"
+    "explanation": "This creamy garlic mushroom chicken recipe is a restaurant-quality meal that you can easily make at home. It's perfect for a weeknight dinner or a special occasion. The chicken is cooked to perfection and then smothered in a rich and creamy mushroom sauce that's flavored with garlic and herbs. Serve it over pasta, rice, or with a side of vegetables for a complete meal. Enjoy!"
   },
   {
-  "name": "vegetable oil",
-  "amount": 1,
-  "measure": "cup"
+    "name": "Chiles Rellenos",
+    "description": [
+      "Preheat oven to 375°F (190°C).",
+      "Roast the poblano peppers on a gas burner or under the broiler until charred all over. Place the peppers in a bowl, cover with plastic wrap, and let sit for 15 minutes. Remove the charred skin from the peppers and discard the seeds.",
+      "In a skillet, cook the ground beef over medium heat until browned. Add the onion, garlic, cumin, and oregano and cook until the onion is translucent. Add the tomatoes and cook until the mixture has thickened.",
+      "Stuff the poblano peppers with the ground beef mixture and place them in a baking dish. Top with grated cheese and bake in the oven until the cheese is melted and bubbly, about 15 minutes.",
+      "Serve with rice and beans."
+    ],
+    "ingredients": [
+      {
+        "name": "poblano peppers",
+        "amount": 6
+      },
+      {
+        "name": "ground beef",
+        "amount": 454,
+        "measure": "g"
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "measure": "large"
+      },
+      {
+        "name": "garlic",
+        "amount": 2,
+        "measure": "clove(s)"
+      },
+      {
+        "name": "cumin",
+        "amount": 1,
+        "measure": "tsp"
+      },
+      {
+        "name": "dried oregano",
+        "amount": 1,
+        "measure": "tsp"
+      },
+      {
+        "name": "tomatoes",
+        "amount": 414,
+        "measure": "ml",
+        "note": "diced"
+      },
+      {
+        "name": "cheddar cheese",
+        "amount": 1,
+        "measure": "cup",
+        "note": "grated"
+      }
+    ],
+    "category": {
+      "mealType": "Main",
+      "meal": "Dinner",
+      "region": "Mexican"
+    },
+    "image": "/imgs/recept/chilesRellenos.webp",
+
+    "preparationTime": 45,
+
+    "portion": 6,
+
+    "comments": [],
+
+    "recipeRanking": [],
+
+    "user": "64254133b4996d8b690f7f6b",
+
+    "explanation": "Chiles Rellenos, or stuffed peppers, are a classic Mexican dish that are perfect for a hearty and satisfying dinner. This recipe uses poblano peppers stuffed with a savory ground beef mixture and topped with melted cheese. Serve with rice and beans for a complete meal. Enjoy!"
   },
   {
-  "name": "onions (chopped)",
-  "amount": 2,
-  "measure": "medium"
+    "name": "Jollof Rice",
+    "description": [
+      "Begin by washing the rice in cold water until the water runs clear. Drain and set aside.",
+      "Heat up the oil in a large pot over medium heat. Add in the chopped onions and sauté until translucent. Add in the garlic and ginger and cook for another minute.",
+      "Add the tomato paste and cook for a minute or two, stirring constantly to prevent burning. Then add in the chopped tomatoes and cook for about 5 minutes, stirring occasionally.",
+      "Add in the chicken broth, bay leaves, and thyme. Bring to a boil and then reduce heat to low. Simmer for 10-15 minutes until the sauce thickens and the flavors meld together.",
+      "Add in the rice and stir well to combine with the sauce. Cover the pot and simmer on low heat for 20-25 minutes, or until the rice is cooked and tender. Do not stir the rice during cooking.",
+      "Once the rice is done, remove from heat and let it sit for 5-10 minutes to steam. Fluff the rice with a fork and serve hot with your choice of protein or vegetables. Enjoy!"
+    ],
+    "ingredients": [
+      {
+        "name": "long-grain rice",
+        "amount": 2,
+        "measure": "cups"
+      },
+      {
+        "name": "vegetable oil",
+        "amount": 1,
+        "measure": "cup"
+      },
+      {
+        "name": "onions (chopped)",
+        "amount": 2,
+        "measure": "medium"
+      },
+      {
+        "name": "garlic (minced)",
+        "amount": 2,
+        "measure": "cloves"
+      },
+      {
+        "name": "ginger (minced)",
+        "amount": 1,
+        "measure": "tbsp"
+      },
+      {
+        "name": "tomato paste",
+        "amount": 178,
+        "measure": "ml"
+      },
+      {
+        "name": "tomatoes (chopped)",
+        "amount": 3,
+        "measure": "medium"
+      },
+      {
+        "name": "chicken broth",
+        "amount": 4,
+        "measure": "cups"
+      },
+      {
+        "name": "bay leaves",
+        "amount": 2
+      },
+      {
+        "name": "dried thyme",
+        "amount": 1,
+        "measure": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "measure": "tsp"
+      },
+      {
+        "name": "black pepper",
+        "amount": 1,
+        "measure": "tsp"
+      }
+    ],
+    "category": {
+      "mealType": "Main",
+      "meal": "Jollof Rice",
+      "region": "West African"
+    },
+    "image": "/imgs/recept/jollofRice.jpg",
+
+    "preparationTime": 15,
+
+    "cookingTime": 45,
+
+    "portion": 6,
+
+    "comments": [],
+
+    "recipeRanking": [],
+
+    "user": "64254133b4996d8b690f7f6b",
+
+    "explanation": "Jollof rice is a popular West African dish that is often served at parties and special occasions. It's a one-pot dish that is made with rice, vegetables, and a tomato-based sauce. The key to making great Jollof rice is to use the right spices and to cook the rice until it's tender and fluffy."
   },
   {
-  "name": "garlic (minced)",
-  "amount": 2,
-  "measure": "cloves"
+    "name": "African Peanut Stew",
+    "description": [
+      "Heat oil in a large pot over medium heat. Add onion and sauté until tender, about 5 minutes. Add garlic and ginger and sauté for another minute.",
+      "Stir in the sweet potatoes, tomatoes, and vegetable broth. Bring to a boil, then reduce heat and simmer until the sweet potatoes are tender, about 15-20 minutes.",
+      "Stir in the peanut butter, chickpeas, and spinach. Cook until the spinach is wilted and the stew is heated through, about 5-10 minutes.",
+      "Season with salt and pepper to taste. Serve hot with crusty bread or rice."
+    ],
+    "ingredients": [
+      {
+        "name": "vegetable oil",
+        "amount": 2,
+        "measure": "tbsp"
+      },
+      {
+        "name": "onion (diced)",
+        "amount": 1,
+        "measure": "large"
+      },
+      {
+        "name": "garlic (minced)",
+        "amount": 3,
+        "measure": "clove(s)"
+      },
+      {
+        "name": "ginger (minced)",
+        "amount": 1,
+        "measure": "tsp"
+      },
+      {
+        "name": "sweet potatoes (peeled and cubed)",
+        "amount": 2,
+        "measure": "medium"
+      },
+      {
+        "name": "canned tomatoes",
+        "amount": 230,
+        "measure": "ml"
+      },
+      {
+        "name": "vegetable broth",
+        "amount": 4,
+        "measure": "cups"
+      },
+      {
+        "name": "peanut butter",
+        "amount": 0.5,
+        "measure": "cup"
+      },
+      {
+        "name": "canned chickpeas (drained and rinsed)",
+        "amount": 230,
+        "measure": "ml"
+      },
+      {
+        "name": "fresh spinach (chopped)",
+        "amount": 4,
+        "measure": "cups"
+      },
+      {
+        "name": "salt"
+      },
+      {
+        "name": "black pepper"
+      }
+    ],
+    "category": {
+      "mealType": "Vegetarian",
+      "meal": "Main",
+      "region": "African"
+    },
+    "image": "/imgs/recept/africanPeanutStew.jpg",
+
+    "preparationTime": 30,
+
+    "portion": 4,
+
+    "comments": [],
+
+    "recipeRanking": [],
+
+    "user": "64254133b4996d8b690f7f6b",
+
+    "explanation": "This African Peanut Stew recipe is perfect for a cozy and hearty meal on a chilly day. It's packed with healthy ingredients like sweet potatoes, chickpeas, and spinach, and flavored with the rich and nutty taste of peanut butter. Plus, it's vegetarian-friendly and easy to make! Follow along with the recipe below or watch the video for step-by-step instructions."
   },
   {
-  "name": "ginger (minced)",
-  "amount": 1,
-  "measure": "tbsp"
+    "name": "Köfte (Turkish Meatballs)",
+    "description": [
+      "Preheat the oven to 200°C.",
+      "In a mixing bowl, combine 500g of ground beef, 1 grated onion, 1/2 cup of breadcrumbs, 1 egg, 2 cloves of minced garlic, 1/2 teaspoon of ground cumin, 1/2 teaspoon of ground coriander, 1/2 teaspoon of paprika, 1/2 teaspoon of salt, and 1/4 teaspoon of black pepper. Mix well until all the ingredients are evenly combined.",
+      "Take a small amount of the mixture and shape it into a ball, about the size of a golf ball. Repeat with the rest of the mixture, making about 20-25 meatballs.",
+      "Place the meatballs on a baking tray lined with parchment paper, making sure they are not touching. Bake in the preheated oven for 20-25 minutes, or until cooked through and golden brown on the outside.",
+      "Serve the köfte with a side of salad, rice, and/or pide bread. Afiyet olsun (enjoy your meal)!"
+    ],
+    "ingredients": [
+      {
+        "name": "ground beef",
+        "amount": 500,
+        "measure": "g"
+      },
+      {
+        "name": "onion (grated)",
+        "amount": 1,
+        "measure": "medium"
+      },
+      {
+        "name": "breadcrumbs",
+        "amount": 120,
+        "measure": "g"
+      },
+      {
+        "name": "egg",
+        "amount": 1
+      },
+      {
+        "name": "garlic (minced)",
+        "amount": 2,
+        "measure": "clove(s)"
+      },
+      {
+        "name": "ground cumin",
+        "amount": 1,
+        "measure": "tsp"
+      },
+      {
+        "name": "ground coriander",
+        "amount": 1,
+        "measure": "tsp"
+      },
+      {
+        "name": "paprika",
+        "amount": 1,
+        "measure": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "measure": "tsp"
+      },
+      {
+        "name": "black pepper",
+        "amount": 0.25,
+        "measure": "tsp"
+      }
+    ],
+    "category": {
+      "mealType": "Main",
+      "meal": "Meat",
+      "region": "Turkish"
+    },
+    "image": "/imgs/recept/kofte.jpg",
+
+    "preparationTime": 20,
+
+    "portion": 4,
+
+    "comments": [],
+
+    "recipeRanking": [],
+
+    "user": "64254133b4996d8b690f7f6b",
+
+    "explanation": "Köfte is a popular Turkish dish made with ground meat and spices. It's a staple of Turkish cuisine and can be found in restaurants and homes all over the country. This recipe is easy to make and perfect for a quick and delicious dinner. Serve with a side of salad and/or rice for a complete meal."
   },
   {
-  "name": "tomato paste",
-  "amount": 178,
-  "measure": "ml"
-  },
-  {
-  "name": "tomatoes (chopped)",
-  "amount": 3,
-  "measure": "medium"
-  },
-  {
-  "name": "chicken broth",
-  "amount": 4,
-  "measure": "cups"
-  },
-  {
-  "name": "bay leaves",
-  "amount": 2
-  },
-  {
-  "name": "dried thyme",
-  "amount": 1,
-  "measure": "tsp"
-  },
-  {
-  "name": "salt",
-  "amount": 1,
-  "measure": "tsp"
-  },
-  {
-  "name": "black pepper",
-  "amount": 1,
-  "measure": "tsp"
-  }
-  ],
-  "category": {
-  "mealType": "Main",
-  "meal": "Jollof Rice",
-  "region": "West African"
-  },
-  "image": "/imgs/recept/jollofRice.jpg",
-
-  "preparationTime": 15,
-
-  "cookingTime": 45,
-
-  "portion": 6,
-
-  "comments": [],
-
-  "recipeRanking": [],
-
-  "explanation": "Jollof rice is a popular West African dish that is often served at parties and special occasions. It's a one-pot dish that is made with rice, vegetables, and a tomato-based sauce. The key to making great Jollof rice is to use the right spices and to cook the rice until it's tender and fluffy."
-},
-{
-  "name": "African Peanut Stew",
-  "description": [
-    "Heat oil in a large pot over medium heat. Add onion and sauté until tender, about 5 minutes. Add garlic and ginger and sauté for another minute.",
-    "Stir in the sweet potatoes, tomatoes, and vegetable broth. Bring to a boil, then reduce heat and simmer until the sweet potatoes are tender, about 15-20 minutes.",
-    "Stir in the peanut butter, chickpeas, and spinach. Cook until the spinach is wilted and the stew is heated through, about 5-10 minutes.",
-    "Season with salt and pepper to taste. Serve hot with crusty bread or rice."
-  ],
-  "ingredients": [
-    {
-      "name": "vegetable oil",
-      "amount": 2,
-      "measure": "tbsp"
-    },
-    {
-      "name": "onion (diced)",
-      "amount": 1,
-      "measure": "large"
-    },
-    {
-      "name": "garlic (minced)",
-      "amount": 3,
-      "measure": "clove(s)"
-    },
-    {
-      "name": "ginger (minced)",
-      "amount": 1,
-      "measure": "tsp"
-    },
-    {
-      "name": "sweet potatoes (peeled and cubed)",
-      "amount": 2,
-      "measure": "medium"
-    },
-    {
-      "name": "canned tomatoes",
-      "amount": 230,
-      "measure": "ml"
-    },
-    {
-      "name": "vegetable broth",
-      "amount": 4,
-      "measure": "cups"
-    },
-    {
-      "name": "peanut butter",
-      "amount": 0.5,
-      "measure": "cup"
-    },
-    {
-      "name": "canned chickpeas (drained and rinsed)",
-      "amount": 230,
-      "measure": "ml"
-    },
-    {
-      "name": "fresh spinach (chopped)",
-      "amount": 4,
-      "measure": "cups"
-    },
-    {
-      "name": "salt"
-    },
-    {
-      "name": "black pepper"
-    }
-  ],
-  "category": {
-    "mealType": "Vegetarian",
-    "meal": "Main",
-    "region": "African"
-  },
-  "image": "/imgs/recept/africanPeanutStew.jpg",
-
-  "preparationTime": 30,
-
-  "portion": 4,
-
-  "comments": [],
-
-  "recipeRanking": [],
-
-  "explanation": "This African Peanut Stew recipe is perfect for a cozy and hearty meal on a chilly day. It's packed with healthy ingredients like sweet potatoes, chickpeas, and spinach, and flavored with the rich and nutty taste of peanut butter. Plus, it's vegetarian-friendly and easy to make! Follow along with the recipe below or watch the video for step-by-step instructions."
-},
-{
-  "name": "Köfte (Turkish Meatballs)",
-  "description": [
-    "Preheat the oven to 200°C.",
-    "In a mixing bowl, combine 500g of ground beef, 1 grated onion, 1/2 cup of breadcrumbs, 1 egg, 2 cloves of minced garlic, 1/2 teaspoon of ground cumin, 1/2 teaspoon of ground coriander, 1/2 teaspoon of paprika, 1/2 teaspoon of salt, and 1/4 teaspoon of black pepper. Mix well until all the ingredients are evenly combined.",
-    "Take a small amount of the mixture and shape it into a ball, about the size of a golf ball. Repeat with the rest of the mixture, making about 20-25 meatballs.",
-    "Place the meatballs on a baking tray lined with parchment paper, making sure they are not touching. Bake in the preheated oven for 20-25 minutes, or until cooked through and golden brown on the outside.",
-    "Serve the köfte with a side of salad, rice, and/or pide bread. Afiyet olsun (enjoy your meal)!"
-  ],
-  "ingredients": [
-    {
-      "name": "ground beef",
-      "amount": 500,
-      "measure": "g"
-    },
-    {
-      "name": "onion (grated)",
-      "amount": 1,
-      "measure": "medium"
-    },
-    {
-      "name": "breadcrumbs",
-      "amount": 120,
-      "measure": "g"
-    },
-    {
-      "name": "egg",
-      "amount": 1
-    },
-    {
-      "name": "garlic (minced)",
-      "amount": 2,
-      "measure": "clove(s)"
-    },
-    {
-      "name": "ground cumin",
-      "amount": 1,
-      "measure": "tsp"
-    },
-    {
-      "name": "ground coriander",
-      "amount": 1,
-      "measure": "tsp"
-    },
-    {
-      "name": "paprika",
-      "amount": 1,
-      "measure": "tsp"
-    },
-    {
-      "name": "salt",
-      "amount": 1,
-      "measure": "tsp"
-    },
-    {
-      "name": "black pepper",
-      "amount": 0.25,
-      "measure": "tsp"
-    }
-  ],
-  "category": {
-    "mealType": "Main",
-    "meal": "Meat",
-    "region": "Turkish"
-  },
-  "image": "/imgs/recept/kofte.jpg",
-
-  "preparationTime": 20,
-
-  "portion": 4,
-
-  "comments": [],
-
-  "recipeRanking": [],
-
-  "explanation": "Köfte is a popular Turkish dish made with ground meat and spices. It's a staple of Turkish cuisine and can be found in restaurants and homes all over the country. This recipe is easy to make and perfect for a quick and delicious dinner. Serve with a side of salad and/or rice for a complete meal." 
-},
-{
-  "name": "Greek Salad",
-  "description": [
+    "name": "Greek Salad",
+    "description": [
       "Cut the cucumber into small pieces and place in a large bowl. Add the cherry tomatoes, red onion, and olives.",
       "Crumble the feta cheese over the vegetables.",
       "In a small bowl, whisk together the olive oil, red wine vinegar, lemon juice, oregano, salt, and pepper. Drizzle over the salad and toss gently to combine.",
       "Serve chilled with fresh bread."
-  ],
-  "ingredients": [
+    ],
+    "ingredients": [
       {
-          "name": "cucumber",
-          "amount": 1,
-          "measure": "piece(s)"
+        "name": "cucumber",
+        "amount": 1,
+        "measure": "piece(s)"
       },
       {
-          "name": "cherry tomatoes",
-          "amount": 250,
-          "measure": "g"
+        "name": "cherry tomatoes",
+        "amount": 250,
+        "measure": "g"
       },
       {
-          "name": "red onion",
-          "amount": 1,
-          "measure": "piece(s)"
+        "name": "red onion",
+        "amount": 1,
+        "measure": "piece(s)"
       },
       {
-          "name": "kalamata olives",
-          "amount": 100,
-          "measure": "g"
+        "name": "kalamata olives",
+        "amount": 100,
+        "measure": "g"
       },
       {
-          "name": "feta cheese",
-          "amount": 200,
-          "measure": "g"
+        "name": "feta cheese",
+        "amount": 200,
+        "measure": "g"
       },
       {
-          "name": "olive oil",
-          "amount": 60,
-          "measure": "ml"
+        "name": "olive oil",
+        "amount": 60,
+        "measure": "ml"
       },
       {
-          "name": "red wine vinegar",
-          "amount": 30,
-          "measure": "ml"
+        "name": "red wine vinegar",
+        "amount": 30,
+        "measure": "ml"
       },
       {
-          "name": "lemon juice",
-          "amount": 1,
-          "measure": "tbsp"
+        "name": "lemon juice",
+        "amount": 1,
+        "measure": "tbsp"
       },
       {
-          "name": "dried oregano",
-          "amount": 1,
-          "measure": "tsp"
+        "name": "dried oregano",
+        "amount": 1,
+        "measure": "tsp"
       },
       {
-          "name": "salt"
+        "name": "salt"
       },
       {
-          "name": "black pepper"
+        "name": "black pepper"
       }
-  ],
-  "category": {
+    ],
+    "category": {
       "mealType": "Salad",
       "meal": "Lunch/Dinner",
       "region": "Greek"
+    },
+    "image": "/imgs/recept/greekSalad.jpg",
+
+    "preparationTime": 10,
+
+    "portion": 2,
+
+    "comments": [],
+
+    "recipeRanking": [],
+
+    "user": "64254133b4996d8b690f7f6b",
+
+    "explanation": "This traditional Greek salad is a refreshing and healthy dish that can be enjoyed as a light lunch or side dish. It's easy to make and bursting with flavor from the fresh vegetables, salty olives, and tangy feta cheese. Try it out for your next meal and enjoy a taste of Greece!"
   },
-  "image": "/imgs/recept/greekSalad.jpg",
-
-  "preparationTime": 10,
-
-  "portion": 2,
-
-  "comments": [],
-
-  "recipeRanking": [],
-
-  "explanation": "This traditional Greek salad is a refreshing and healthy dish that can be enjoyed as a light lunch or side dish. It's easy to make and bursting with flavor from the fresh vegetables, salty olives, and tangy feta cheese. Try it out for your next meal and enjoy a taste of Greece!" 
-},
-{
-  "name": "Coq au Vin",
-  "description": [
-    "Coq au Vin is a classic French dish that is perfect for a special dinner or entertaining guests. It's a slow-cooked chicken dish that's flavored with red wine, bacon, mushrooms, and herbs. It's typically served with mashed potatoes or crusty bread to soak up all of the delicious sauce.",
-    "To make Coq au Vin, you'll need to marinate the chicken in red wine for at least a few hours, or overnight if possible. This helps to tenderize the meat and infuse it with flavor. Once the chicken is marinated, you'll brown it in a pan and then cook it with the other ingredients in a Dutch oven or heavy-bottomed pot.",
-    "This recipe calls for a full-bodied red wine, like a Burgundy or a Côtes du Rhône. You can also use a Pinot Noir or a Chianti. The bacon adds a smoky flavor, while the mushrooms and herbs add depth and complexity to the dish."
-  ],
-  "ingredients": [
-    {
-      "name": "chicken legs",
-      "amount": 4,
-      "measure": "pieces"
+  {
+    "name": "Coq au Vin",
+    "description": [
+      "Coq au Vin is a classic French dish that is perfect for a special dinner or entertaining guests. It's a slow-cooked chicken dish that's flavored with red wine, bacon, mushrooms, and herbs. It's typically served with mashed potatoes or crusty bread to soak up all of the delicious sauce.",
+      "To make Coq au Vin, you'll need to marinate the chicken in red wine for at least a few hours, or overnight if possible. This helps to tenderize the meat and infuse it with flavor. Once the chicken is marinated, you'll brown it in a pan and then cook it with the other ingredients in a Dutch oven or heavy-bottomed pot.",
+      "This recipe calls for a full-bodied red wine, like a Burgundy or a Côtes du Rhône. You can also use a Pinot Noir or a Chianti. The bacon adds a smoky flavor, while the mushrooms and herbs add depth and complexity to the dish."
+    ],
+    "ingredients": [
+      {
+        "name": "chicken legs",
+        "amount": 4,
+        "measure": "pieces"
+      },
+      {
+        "name": "full-bodied red wine",
+        "amount": 750,
+        "measure": "ml"
+      },
+      {
+        "name": "bacon",
+        "amount": 100,
+        "measure": "g"
+      },
+      {
+        "name": "button mushrooms",
+        "amount": 200,
+        "measure": "g"
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "measure": "large"
+      },
+      {
+        "name": "carrot",
+        "amount": 1,
+        "measure": "large"
+      },
+      {
+        "name": "garlic",
+        "amount": 4,
+        "measure": "cloves"
+      },
+      {
+        "name": "fresh thyme",
+        "amount": 2,
+        "measure": "sprigs"
+      },
+      {
+        "name": "fresh parsley",
+        "amount": 1,
+        "measure": "handful"
+      },
+      {
+        "name": "all-purpose flour",
+        "amount": 2,
+        "measure": "tbsp"
+      },
+      {
+        "name": "chicken stock",
+        "amount": 500,
+        "measure": "ml"
+      },
+      {
+        "name": "butter",
+        "amount": 30,
+        "measure": "g"
+      },
+      {
+        "name": "olive oil",
+        "amount": 30,
+        "measure": "ml"
+      },
+      {
+        "name": "salt"
+      },
+      {
+        "name": "black pepper"
+      }
+    ],
+    "category": {
+      "mealType": "Main Course",
+      "meal": "Dinner",
+      "region": "French"
     },
-    {
-      "name": "full-bodied red wine",
-      "amount": 750,
-      "measure": "ml"
-    },
-    {
-      "name": "bacon",
-      "amount": 100,
-      "measure": "g"
-    },
-    {
-      "name": "button mushrooms",
-      "amount": 200,
-      "measure": "g"
-    },
-    {
-      "name": "onion",
-      "amount": 1,
-      "measure": "large"
-    },
-    {
-      "name": "carrot",
-      "amount": 1,
-      "measure": "large"
-    },
-    {
-      "name": "garlic",
-      "amount": 4,
-      "measure": "cloves"
-    },
-    {
-      "name": "fresh thyme",
-      "amount": 2,
-      "measure": "sprigs"
-    },
-    {
-      "name": "fresh parsley",
-      "amount": 1,
-      "measure": "handful"
-    },
-    {
-      "name": "all-purpose flour",
-      "amount": 2,
-      "measure": "tbsp"
-    },
-    {
-      "name": "chicken stock",
-      "amount": 500,
-      "measure": "ml"
-    },
-    {
-      "name": "butter",
-      "amount": 30,
-      "measure": "g"
-    },
-    {
-      "name": "olive oil",
-      "amount": 30,
-      "measure": "ml"
-    },
-    {
-      "name": "salt"
-    },
-    {
-      "name": "black pepper"
-    }
-  ],
-  "category": {
-    "mealType": "Main Course",
-    "meal": "Dinner",
-    "region": "French"
-  },
-  "image": "/imgs/recept/coq-au-vin.jpg",
+    "image": "/imgs/recept/coq-au-vin.jpg",
 
-  "preparationTime": 30,
+    "preparationTime": 30,
 
-  "portion": 4,
+    "portion": 4,
 
-  "comments": [],
+    "comments": [],
 
-  "recipeRanking": [],
+    "recipeRanking": [],
 
-  "explanation": "Coq au Vin can also be made with a whole chicken or chicken thighs, depending on your preference. You can also add pearl onions to the recipe for extra flavor."
-}
+    "user": "64254133b4996d8b690f7f6b",
 
-
-
-
-
-
-  
+    "explanation": "Coq au Vin can also be made with a whole chicken or chicken thighs, depending on your preference. You can also add pearl onions to the recipe for extra flavor."
+  }
 ]
