@@ -37,7 +37,7 @@ export const getAllRecipes = async (req, res, next) => {
 
 export const getRecipe = async (req, res, next) => {
   try {
-    const result = await Photo.getOne(req.params.recipeId);
+    const result = await Recipe.getOne(req.params.recipeId);
     res.status(200).json(result);
   } catch (err) {
     next(err);

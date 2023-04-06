@@ -8,24 +8,13 @@ export const postSchema = {
     recipes: {
       type: "array",
       items: { type: "object" },
-      minLength: 24,
-      maxLength: 24,
     },
     likedRecipes: {
       type: "array",
       items: { type: "object" },
-      minLength: 24,
-      maxLength: 24,
     },
     shoppingList: { type: "object" },
   },
-  required: [
-    "userName",
-    "email",
-    "image",
-    "recipes",
-    "likedRecipes",
-    "shoppingList",
-  ],
+  required: ["userName", "email", "password"],
   additionalProperties: false,
 };

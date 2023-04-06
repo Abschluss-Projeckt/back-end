@@ -21,6 +21,8 @@ const shoppingList = new Schema(
 
 const userSchema = new Schema(
   {
+    googleId: String,
+    provider: String,
     userName: {
       type: String,
       required: true,
@@ -49,6 +51,14 @@ const userSchema = new Schema(
         ref: "Recipe",
       },
     ],
+
+    savedRecipes: [
+      {
+        type: Schema.Types.ObjectId,
+        ref: "Recipe",
+      },
+    ],
+
     shoppingList: [shoppingList],
     // weeklyPlan: []
   },
@@ -63,6 +73,11 @@ export const create = async (data) => {
   const newUser = await User.create(data);
 
   return newUser;
+};
+
+export const getAllUsers = async () => {
+  const users = await User.find();
+  return users;
 };
 
 export const getOne = async (filter) => {

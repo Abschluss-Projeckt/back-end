@@ -1,75 +1,5 @@
 import mongoose from "mongoose";
-
-const category = new mongoose.Schema(
-  {
-    mealType: {
-      type: String,
-      enum: [
-        "Vorspeise",
-        "Hauptspeise",
-        "Frühstück",
-        "Dessert",
-        "Snack",
-        "Getränke",
-      ],
-      required: true,
-    },
-
-    meal: {
-      type: String,
-      enum: [
-        "Fleischgerichte",
-        "Fischgerichte",
-        "Pizza & Pasta",
-        "Backen",
-        "Suppe & Eintopf",
-        "Salat",
-        "Beilagen",
-        "Dessert",
-        "Auflauf",
-        "Snacks",
-      ],
-      required: true,
-    },
-
-    region: {
-      type: String,
-      enum: [
-        "Asiatisch",
-        "Chinesisch",
-        "Deutsch",
-        "Englisch",
-        "Französisch",
-        "Arabisch",
-        "Griechisch",
-        "Indisch",
-        "Italienisch",
-        "Japanisch",
-        "Mexikanisch",
-        "Osteuropäisch",
-        "Spanisch",
-        "Türkisch",
-        "Orientalisch",
-      ],
-      required: true,
-    },
-    nutrition: {
-      type: String,
-      enum: [
-        "Vegan",
-        "Vegetarisch",
-        "Zuckerfrei",
-        "Laktosefrei",
-        "Glutenfrei",
-        "Alkoholfrei",
-      ],
-    },
-  },
-  {
-    _id: false,
-    versionKey: false,
-  }
-);
+import * as Schemas from "./Schemas.js";
 
 const schema = new mongoose.Schema(
   {
@@ -83,19 +13,16 @@ const schema = new mongoose.Schema(
       required: true,
     },
 
-    ingredients: {
-      type: Array,
-      required: true,
-    },
+    ingredients: [Schemas.ingredients],
 
-    category: category,
+    category: Schemas.category,
 
     image: {
       type: String,
       required: true,
     },
 
-    time: {
+    preparationTime: {
       type: Number,
       required: true,
     },
@@ -109,6 +36,12 @@ const schema = new mongoose.Schema(
       type: mongoose.Schema.Types.ObjectId,
       ref: "User",
     },
+
+    comments: [Schemas.comments],
+
+    recipeRanking: [Number],
+
+    explanation: String,
   },
   {
     versionKey: false,
@@ -118,12 +51,12 @@ const schema = new mongoose.Schema(
 const Recipe = mongoose.model("Recipe", schema);
 
 export const getAll = async () => {
-  const recipes = await Recipe.find(); /*.populate("user")*/
+  const recipes = await Recipe.find().populate("user");
   return recipes;
 };
 
 export const getOne = async (recipeId) => {
-  const recipe = await Recipe.findById(recipeId); /*.populate("user")*/
+  const recipe = await Recipe.findById(recipeId).populate("user");
 
   return recipe;
 };
